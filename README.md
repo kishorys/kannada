@@ -1,2 +1,2 @@
 # kannada
-Kannada Typing in Mac
+Kannada Typing in Mac.
